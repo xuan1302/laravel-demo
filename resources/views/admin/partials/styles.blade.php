@@ -1,0 +1,10 @@
+{{--<link rel="stylesheet" href="{{asset('assets/admin/styles/feather.css')}}">--}}
+<link rel="stylesheet" href="{{asset('assets/admin/styles/materialdesignicons.min.css')}}">
+{{--<link rel="stylesheet" href="{{asset('assets/admin/styles/themify-icons.css')}}">--}}
+{{--<link rel="stylesheet" href="{{asset('assets/admin/styles/typicons.css')}}">--}}
+<link rel="stylesheet" href="{{asset('assets/admin/styles/simple-line-icons.css')}}">
+<link rel="stylesheet" href="{{asset('assets/admin/styles/vendor.bundle.base.css')}}">
+{{--<link rel="stylesheet" href="{{asset('assets/admin/styles/dataTables.bootstrap4.css')}}">--}}
+{{--<link rel="stylesheet" href="{{asset('assets/admin/styles/select.dataTables.min.css')}}">--}}
+<link rel="stylesheet" href="{{asset('assets/admin/styles/style.css')}}">
+<link rel="stylesheet" href="{{asset('assets/admin/styles/custom.css')}}">
